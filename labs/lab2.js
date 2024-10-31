@@ -99,5 +99,3 @@ console.log(`${student1.fullName}: ${student1.courses.length} courses`); // -> R
 console.log(`${teacher1.fullName}: ${teacher1.courses.length} courses`); // -> Paula Thompkins: 2 courses
 student1.fullName = 'Rafael Fifer';
 console.log(`${student1.fullName}: ${student1.courses.length} courses`); // -> Rafael Fifer: 1 courses
-
-console.log(teacher1)
